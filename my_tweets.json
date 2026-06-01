@@ -1,0 +1,252 @@
+{
+    "1": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Just finished my morning run and the sun is shining. Best way to start the day!",
+        "tweet_url": "https://twitter.com/user/status/1"
+    },
+    "2": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Missed my train again. Third time this week. I can't deal with this anymore.",
+        "tweet_url": "https://twitter.com/user/status/2"
+    },
+    "3": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "The meeting has been moved to Thursday at 3pm.",
+        "tweet_url": "https://twitter.com/user/status/3"
+    },
+    "4": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "My team just won the championship! So proud of everyone, we worked so hard for this!",
+        "tweet_url": "https://twitter.com/user/status/4"
+    },
+    "5": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Terrible customer service today. Waited 45 minutes and nobody helped me. Never coming back.",
+        "tweet_url": "https://twitter.com/user/status/5"
+    },
+    "6": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "New study shows that adults need around 7 to 9 hours of sleep per night.",
+        "tweet_url": "https://twitter.com/user/status/6"
+    },
+    "7": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Just got offered the job! Years of hard work finally paying off. I am beyond grateful.",
+        "tweet_url": "https://twitter.com/user/status/7"
+    },
+    "8": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "My laptop crashed and I lost all my work. No backup. This is a disaster.",
+        "tweet_url": "https://twitter.com/user/status/8"
+    },
+    "9": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "The new iPhone was announced today. It comes in three colors and starts at $999.",
+        "tweet_url": "https://twitter.com/user/status/9"
+    },
+    "10": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Surprised my mom with flowers for her birthday. The look on her face made my whole week.",
+        "tweet_url": "https://twitter.com/user/status/10"
+    },
+    "11": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Can't believe how rude people are on public transport. No manners whatsoever.",
+        "tweet_url": "https://twitter.com/user/status/11"
+    },
+    "12": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "It is currently 14 degrees in Amsterdam. Cloudy skies expected throughout the day.",
+        "tweet_url": "https://twitter.com/user/status/12"
+    },
+    "13": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Finally finished reading that 600-page book. Absolutely loved every page of it.",
+        "tweet_url": "https://twitter.com/user/status/13"
+    },
+    "14": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Another day, another disappointment. I really thought things would change this time.",
+        "tweet_url": "https://twitter.com/user/status/14"
+    },
+    "15": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "The supermarket on Main Street will be closed for renovations until next Monday.",
+        "tweet_url": "https://twitter.com/user/status/15"
+    },
+    "16": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Cooked dinner from scratch for the first time and it actually tasted amazing. Very happy with myself!",
+        "tweet_url": "https://twitter.com/user/status/16"
+    },
+    "17": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Flight delayed by 4 hours with no explanation. Sitting on the floor of the airport. Great.",
+        "tweet_url": "https://twitter.com/user/status/17"
+    },
+    "18": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "The government released its annual budget report this morning.",
+        "tweet_url": "https://twitter.com/user/status/18"
+    },
+    "19": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Ran into an old friend I hadn't seen in years. We talked for hours. So good to reconnect.",
+        "tweet_url": "https://twitter.com/user/status/19"
+    },
+    "20": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "The noise from the construction outside my window starts at 7am every single day. I am losing my mind.",
+        "tweet_url": "https://twitter.com/user/status/20"
+    },
+    "21": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "There are currently about 8 billion people living on Earth.",
+        "tweet_url": "https://twitter.com/user/status/21"
+    },
+    "22": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "My little sister just graduated. She worked so hard and I could not be more proud of her.",
+        "tweet_url": "https://twitter.com/user/status/22"
+    },
+    "23": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Ordered food an hour ago and it still hasn't arrived. The app says it's been delivered. It has not.",
+        "tweet_url": "https://twitter.com/user/status/23"
+    },
+    "24": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "Python 3.12 was released last October with several performance improvements.",
+        "tweet_url": "https://twitter.com/user/status/24"
+    },
+    "25": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "The sunset tonight was absolutely stunning. Stopped everything just to watch it.",
+        "tweet_url": "https://twitter.com/user/status/25"
+    },
+    "26": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Got a parking ticket even though I paid. Spent 2 hours trying to dispute it. Still not resolved.",
+        "tweet_url": "https://twitter.com/user/status/26"
+    },
+    "27": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "The Netherlands has approximately 17.9 million inhabitants as of 2024.",
+        "tweet_url": "https://twitter.com/user/status/27"
+    },
+    "28": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "First day at the new job was great. Everyone was so welcoming and the work looks really interesting.",
+        "tweet_url": "https://twitter.com/user/status/28"
+    },
+    "29": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "My landlord still hasn't fixed the heating after three weeks. It is freezing in here.",
+        "tweet_url": "https://twitter.com/user/status/29"
+    },
+    "30": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "The next World Cup will be hosted by the United States, Canada, and Mexico.",
+        "tweet_url": "https://twitter.com/user/status/30"
+    },
+    "31": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "My dog learned a new trick today. He is honestly smarter than most people I know.",
+        "tweet_url": "https://twitter.com/user/status/31"
+    },
+    "32": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Spent the whole weekend studying and still failed the exam. What is even the point.",
+        "tweet_url": "https://twitter.com/user/status/32"
+    },
+    "33": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "The library opens at 9am and closes at 6pm on weekdays.",
+        "tweet_url": "https://twitter.com/user/status/33"
+    },
+    "34": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Just booked flights for my summer holiday. Cannot wait. Needed this so much.",
+        "tweet_url": "https://twitter.com/user/status/34"
+    },
+    "35": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "The internet has been down all morning and I have deadlines. Absolutely useless provider.",
+        "tweet_url": "https://twitter.com/user/status/35"
+    },
+    "36": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "A new coffee shop opened on the corner of Delfgauw road last week.",
+        "tweet_url": "https://twitter.com/user/status/36"
+    },
+    "37": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Volunteered at the food bank today. Humbling experience. Everyone should try it at least once.",
+        "tweet_url": "https://twitter.com/user/status/37"
+    },
+    "38": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Someone stole my bike. My locked, registered bike. I hate this city sometimes.",
+        "tweet_url": "https://twitter.com/user/status/38"
+    },
+    "39": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "The bus to the city centre runs every 12 minutes during peak hours.",
+        "tweet_url": "https://twitter.com/user/status/39"
+    },
+    "40": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Had the best pizza of my life in Naples. Some food really does taste better in its home country.",
+        "tweet_url": "https://twitter.com/user/status/40"
+    },
+    "41": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Another meeting that could have been an email. Two hours of my life I will never get back.",
+        "tweet_url": "https://twitter.com/user/status/41"
+    },
+    "42": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "The film runs for 2 hours and 18 minutes and is rated PG-13.",
+        "tweet_url": "https://twitter.com/user/status/42"
+    },
+    "43": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "My essay got the highest grade in the class. All those late nights were worth it.",
+        "tweet_url": "https://twitter.com/user/status/43"
+    },
+    "44": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Woke up with a terrible cold the day before my presentation. Perfect timing as always.",
+        "tweet_url": "https://twitter.com/user/status/44"
+    },
+    "45": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "The average temperature in Delft in July is around 22 degrees Celsius.",
+        "tweet_url": "https://twitter.com/user/status/45"
+    },
+    "46": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Went for a long walk through the park and felt completely at peace. Nature really helps.",
+        "tweet_url": "https://twitter.com/user/status/46"
+    },
+    "47": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "The website keeps crashing every time I try to check out. Lost my cart three times now.",
+        "tweet_url": "https://twitter.com/user/status/47"
+    },
+    "48": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "There are 52 weeks in a year and 365 days, or 366 in a leap year.",
+        "tweet_url": "https://twitter.com/user/status/48"
+    },
+    "49": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "My parents visited for the weekend. The house feels so warm and full when they are here.",
+        "tweet_url": "https://twitter.com/user/status/49"
+    },
+    "50": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Neighbor's alarm has been going off for 40 minutes and nobody is home. I am going insane.",
+        "tweet_url": "https://twitter.com/user/status/50"
+    }
+}
